@@ -134,12 +134,11 @@ data/
 temp/
 tmp/
 
-# PDF files
-*.pdf
+
 
 # Configuration files with sensitive data
 config.json
-challenge1b_input.json
+# challenge1b_input.json
 *.config
 
 # Log files
