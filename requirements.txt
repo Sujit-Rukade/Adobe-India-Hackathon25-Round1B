@@ -1,0 +1,4 @@
+fitz
+pandas
+PyMuPDF
+ftfy
